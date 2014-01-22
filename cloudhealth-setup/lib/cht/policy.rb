@@ -73,6 +73,7 @@ class Setup
             "elasticbeanstalk:RetrieveEnvironmentInfo",
             "elasticloadbalancing:Describe*",
             "elasticmapreduce:Describe*",
+            "elasticmapreduce:List*",
             "iam:List*",
             "iam:Get*",
             "redshift:Describe*",
