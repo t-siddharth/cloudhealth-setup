@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'cloudhealth-setup'
-  s.version     = '0.0.15'
+  s.version     = '0.0.16'
   s.date        = '2014-01-23'
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['CloudHealth Technologies']
